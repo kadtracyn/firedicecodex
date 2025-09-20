@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-18T22:21:45.993+02:00","modified":"2025-09-19T15:02:59.946+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-18T22:21:45.993+02:00","modified":"2025-09-20T15:29:23.533+02:00","cssclasses":""}
 ---
 
 # Unheil über Ufsbekkr (Dungeons & Dragons 3.5)
@@ -12,3 +12,8 @@ Es begann harmlos – plötzlich verschwanden Tiere von den Bauernhöfen. Dann w
 Die Bewohner tuscheln nervös und werfen besorgte Blicke in die Wälder. Etwas Fremdes, Bedrohliches scheint sich in der Nähe eingenistet zu haben. Wer oder was hinter diesen Vorfällen steckt, weiß niemand – daher hat der Bürgermeister eine Belohnung ausgesetzt, um mutige Helden anzulocken, um dem Geheimnis auf den Grund zu gehen…
 
 Einige Abenteuer, unter anderem die Elfe [Ithriel Celan Lass](pcs/ithriel) machen sich auf, die geheimnisvollen Umstände zu lüften und die Stadtbewohner zu beruhigen. 
+
+# Hausregel
+
+**Völker**
+* [Drachenblütige](rules/dragonborn)
