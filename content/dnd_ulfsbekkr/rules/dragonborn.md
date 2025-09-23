@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-20T15:19:05.791+02:00","modified":"2025-09-20T15:28:13.553+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-20T15:19:05.791+02:00","modified":"2025-09-22T15:38:24.919+02:00","cssclasses":""}
 ---
 
 # Drachengeborene
@@ -23,10 +23,8 @@ Geboren, um zu kämpfen, sind die Drachengeborenen ein Volk von wandernden Söld
 - **Atemwaffe nach Wahl**
 - **+2 Volksbonus** auf Einschüchtern und Wissen (Geschichte).
 - **Drachengeborenenwut (Außergewöhnlich):** Sinkt die Lebenspunkte auf ≤ 50 %, verfallen sie in Rage (+2 Stärke), bis sie nicht mehr verwundet oder mindestens 1 Stunde kampflos sind. Währenddessen können sie keine Fähigkeiten nutzen, die Geduld oder Konzentration erfordern.
-    
-- **Drachenatem (Übernatürlich):** Bei der Erschaffung wird ein Energietyp (Säure, Kälte, Elektrizität, Feuer, Schall) und eine Form (Kegel 4,5 m oder Linie 9 m) gewählt. 1× pro Begegnung als Standardaktion, Schaden 1W8 (Reflexwurf für halben Schaden, SG 10 + ½ Stufe + KO-Mod.). Steigt ab Stufe 5 alle 5 Stufen um +1W8.
-    
-- **Drakonisches Erwachen (Außergewöhnlich):** Auf Stufe 20 kann ein Drachengeborener einmal täglich die Gestalt eines erwachsenen Drachen annehmen (für einen Kampf oder 10 Minuten außerhalb). Dies kostet 2000 EP pro Verwandlung bis Stufe 30, ab dann ist es kostenlos.
+- **Drachenatem (Übernatürlich):** Bei der Erschaffung wird ein Energietyp (Säure, Kälte, Elektrizität, Feuer, Schall) und eine Form (Kegel 4,5 m oder Linie 9 m) gewählt. 1× pro Begegnung als Standardaktion, Schaden 1W8 (Reflexwurf für halben Schaden, SG 10 + ½ Stufe + KO-Mod.). Steigt ab Stufe 5 alle 5 Stufen um +1W8.    
+- **Drakonisches Erwachen (Außergewöhnlich):** Auf Stufe 20 kann ein Drachengeborener einmal täglich die Gestalt eines erwachsenen Drachen annehmen (für einen Kampf oder 10 Minuten außerhalb). Dies kostet 2000 EP pro Verwandlung bis Stufe 30, ab dann ist es kostenlo
     
 - **Automatische Sprachen:** Gemeinsprache, Drakonisch.
     
