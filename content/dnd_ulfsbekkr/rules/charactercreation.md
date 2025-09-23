@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-22T15:38:33.659+02:00","modified":"2025-09-23T20:11:28.183+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-22T15:38:33.659+02:00","modified":"2025-09-23T20:29:21.634+02:00","cssclasses":""}
 ---
 
 # Charaktererstellung in Dungeons & Dragons
@@ -33,13 +33,39 @@ damit die Charaktererstelllung schneller geht, solltet ihr euch im Vorfeld ein p
 		2. “Ich halte Regeln, wenn sie sinnvoll sind, sonst nicht.”
 		3. “Ich handle nach Gewissen und Freiheit, Regeln sind zweitrangig.”
 
+### Liste von (zufälligen) Charaktereigenschaften
+Die folgende Liste könnt (müsst nicht) ihr verwenden um euren Charakter weiter zu individualisieren. Ihr könnt einfach eigenschaften aussuchen oder zufällig mit einem Würfel bei der Charaktererstellung zufällig bestimmen.
+
+| W100-Bereich | Charaktereigenschaft     |
+| ------------ | ------------------------ |
+| 1 - 5        | Äußerst freundlich       |
+| 6 - 10       | Unermüdlich loyal        |
+| 11 - 15      | Überaus mutig            |
+| 16 - 20      | Geheimnisvoll            |
+| 21 - 25      | Eitel und stolz          |
+| 26 - 30      | Jähzornig                |
+| 31 - 35      | Großzügig                |
+| 36 - 40      | Misstrauisch             |
+| 41 - 45      | Kreativ und erfinderisch |
+| 46 - 50      | Ungeduldig               |
+| 51 - 55      | Weisheitsvoll            |
+| 56 - 60      | Erzählt gerne Lügen      |
+| 61 - 65      | Geizig                   |
+| 66 - 70      | Charmant und wortgewandt |
+| 71 - 75      | Schüchtern               |
+| 76 - 80      | Unnachgiebig             |
+| 81 - 85      | Humorvoll                |
+| 86 - 90      | Eigensinnig              |
+| 91 - 95      | Ängstlich                |
+| 96 - 100     | Hilfsbereit              |
+
 ## Eigentliche Charaktererschaffung
 Die Schritte zur Charaktererstellung in Dungeons & Dragons 3.5 sind etwas detaillierter und komplexer als in neueren Editionen und umfassen im Wesentlichen folgende Punkte:
 
 1. Klasse wählen
 2. Volk wählen
    Nach Auswahl des Volkes und der Klasse kann man Alter und Gewicht bestimmen
-3. Attributswerte ermitteln und bestimmen: 
+3. Attributswerte ermitteln 
    Euer Charakter hat die Attribute Stärke, Geschicklichkeit, Konstitution, Intelligenz, Weisheit und Charisma. Diese beeinflussen, wie gut euer Charakter beim Ausüben besonderer Aktionen ist. 
 	1. Attributswerte auswürfeln 
 	2. Werte auf die verschiedenen Attribute verteilen 
@@ -55,3 +81,12 @@ Die Schritte zur Charaktererstellung in Dungeons & Dragons 3.5 sind etwas detail
 	1. Ermittlung des Startbudgets: Das Budget ist abhängig von der Klasse und der Klassenstufe
 9. Zauber wählen (für magische Klassen): Zauber eines entsprechenden Levels und Typen auswählen.
 10. Hintergrund und Persönlichkeit bestimmen
+
+### Attributswerte ermitteln
+
+1. Um den Wert eines Attributes werden 4 sechseitige Würfel (W6) gewürfelt.
+	1. Die besten drei Würfel werden addiert und bilden einen Attributswert.
+2. Das ganze wird noch sechs mal wiederholen und die Werte ebenfalls notieren.
+3. Den schlechtesten Wert streichen
+4. Die verbliebenen sechs Werte den Attributen zuordnen.
+5. Prüfen ob sich Attributswerte aufgrund des Volkes verändern.
