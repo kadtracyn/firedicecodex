@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-22T15:38:33.659+02:00","modified":"2025-09-23T20:29:21.634+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-22T15:38:33.659+02:00","modified":"2025-09-24T12:53:43.494+02:00","cssclasses":""}
 ---
 
 # Charaktererstellung in Dungeons & Dragons
@@ -32,6 +32,8 @@ damit die Charaktererstelllung schneller geht, solltet ihr euch im Vorfeld ein p
 		1. "Ich folge Gesetz/Tradition oder meinem festen Kodex.”
 		2. “Ich halte Regeln, wenn sie sinnvoll sind, sonst nicht.”
 		3. “Ich handle nach Gewissen und Freiheit, Regeln sind zweitrangig.”
+7. Überlege dir einen Namen
+   Hier kann der Fantasy Name Generator sehr nützlich sein: https://www.fantasynamegenerators.com/dungeons-and-dragons.php
 
 ### Liste von (zufälligen) Charaktereigenschaften
 Die folgende Liste könnt (müsst nicht) ihr verwenden um euren Charakter weiter zu individualisieren. Ihr könnt einfach eigenschaften aussuchen oder zufällig mit einem Würfel bei der Charaktererstellung zufällig bestimmen.
